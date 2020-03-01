@@ -2,5 +2,8 @@ Rencana konten WPU
 
 -Javascript
   - web javascript
+  - database
 -React native
+  -view
 -Flutter
+-phyton
