@@ -1,0 +1,5 @@
+WPU Resolusi
+- Menguasai Bahasa pemrograman Java
+- Mempelajari Framework web Spring Boot
+- Mempelajari Framework web Struts 2
+- Mempelajari Java GUI
