@@ -3,4 +3,4 @@ WPU Resolusi
 - Mempelajari Framework web Spring Boot
 - Mempelajari Framework web Struts 2
 - Mempelajari Java GUI
-- Mempelajari React Native
+- Mempelajari Flutter
