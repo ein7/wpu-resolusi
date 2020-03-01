@@ -2,8 +2,10 @@ Rencana konten WPU
 
 -Javascript
   - web javascript
-  - coba
-  - coba2
+  - database
+  - nodejs
 -React native
+  -view
+-Flutter
+-phyton
 
--coba3
